@@ -30,8 +30,3 @@ This is a SQL-based database project for managing hospital operations. It includ
 - Integrate with a frontend (e.g., Python Flask or Java Spring).
 - Add user authentication logic.
 - Implement backups and security audits.
-
-### License
-MIT License. Feel free to use and modify.
-
-For questions, contact [your-email@example.com].
